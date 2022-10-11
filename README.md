@@ -4,4 +4,5 @@
 - 🌱 I’m currently exploring various technologies
 
 ---
-[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashish1025)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashish1025)](https://github.com/ashish1025/github-readme-stats)
+
