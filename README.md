@@ -7,4 +7,4 @@
 [![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashish1025)](https://github.com/ashish1025/github-readme-stats)
 
 ---
-[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashish1025)](https://github.com/ashish1025/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1025&theme=tokyonight)
