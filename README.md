@@ -11,7 +11,7 @@
 
 # 🛠 Tech Stack
 -  💻   C++ | JavaScript
--  🌐   HTML | CSS |JS 
+-  🌐   HTML | CSS | JS 
 -  🛢   Node.js | MongoDB 
 -  🔧   Git | VSCode
 
